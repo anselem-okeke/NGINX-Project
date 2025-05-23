@@ -1,4 +1,4 @@
-### This is a project accompanying Nginx Crash Course
+### NGINX Real World Project``
 
 ### Commands used in the project
 
