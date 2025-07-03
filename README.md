@@ -1,4 +1,4 @@
-# NGINX as a Load Balancer with Dockerized Backend Apps
+### NGINX as a Load Balancer with Dockerized Backend Apps
 
 This project demonstrates how NGINX can be used as a **reverse proxy and load balancer** to distribute traffic across multiple backend services running in Docker containers. It includes SSL setup, HTTPS redirection, and load balancing using the **least connections** algorithm.
 
